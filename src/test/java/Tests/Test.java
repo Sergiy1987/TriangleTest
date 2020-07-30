@@ -3,7 +3,7 @@ package Tests;
  * Created by slobse01 on 07.02.2018.
  */
 
-import ru.yandex.qatools.allure.annotations.Step;
+import io.qameta.allure.Step;
 
 import static Main.Figure_Triangle.*;
 import static org.testng.Assert.assertEquals;
